@@ -10,7 +10,7 @@ search = GoogleSerperAPIWrapper()
 agent = create_agent (
   model =model,
   tools=[search.run],
-  system_prompt = ' Ypu are a agent and can search for any question on google'
+  system_prompt = ' You are a agent and can search for any question on google'
 )
 
 while True:
