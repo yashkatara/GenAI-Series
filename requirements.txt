@@ -7,3 +7,9 @@ streamlit
 langchain-ollama
 langchain-groq
 langchain-community
+pypdf
+beautifulsoup4
+wikipedia
+langchain-chroma
+langchain-text-splitters
+langgraph
